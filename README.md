@@ -5,11 +5,10 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=EmilDimov93&theme=github_dark)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmilDimov93&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmilDimov93&theme=github_dark)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=EmilDimov93&theme=github)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=EmilDimov93&theme=github)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EmilDimov93.EmilDimov93)
 <!--
 **EmilDimov93/EmilDimov93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
