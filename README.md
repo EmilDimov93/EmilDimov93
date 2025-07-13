@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilDimov93&layout=compact&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilDimov93&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmilDimov93&theme=radical)
 
 <!--
