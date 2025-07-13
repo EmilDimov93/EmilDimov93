@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilDimov93&layout=compact&theme=dark)
 <!--
 **EmilDimov93/EmilDimov93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
