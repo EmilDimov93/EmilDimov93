@@ -1,7 +1,7 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api?username=EmilDimov93&show_icons=true&theme=github_dark&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilDimov93&show_icons=true&theme=github_dark&count_private=true)
 
-![EmilDimov93's GitHub stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=EmilDimov93&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api?username=EmilDimov93&show_icons=true&theme=github_dark&count_private=true))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilDimov93&layout=compact&theme=github_dark)
 <!--
 **EmilDimov93/EmilDimov93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
