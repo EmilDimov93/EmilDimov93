@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=141321&height=160&section=header&text=Emil%20Dimov&fontSize=50&fontColor=f8d847&fontAlign=center)
 ![RapidEngine stars](https://img.shields.io/github/stars/EmilDimov93/Rapid-Engine?style=plastic&label=⭐%20Rapid%20Engine&color=FFD700)
+![C](https://img.shields.io/badge/language-C-555555?style=plastic)
 <p align = left>
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=EmilDimov93&theme=radical" width="500" />
 
