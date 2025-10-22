@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=141321&height=160&section=header&text=Emil%20Dimov&fontSize=50&fontColor=f8d847&fontAlign=center)
 <p align = left>
 
-Hi, I'm a software developer specializing in ***C*** and game engine development.
+Hi, I'm a software developer interested in low-level systems and game engine development
 
-![RapidEngine stars](https://img.shields.io/github/stars/EmilDimov93/Rapid-Engine?style=plastic&label=⭐%20Rapid%20Engine&color=FFD700) ![C](https://img.shields.io/badge/language-C-fe428e?style=plastic)
+![RapidEngine stars](https://img.shields.io/github/stars/EmilDimov93/Rapid-Engine?style=plastic&label=⭐%20Rapid%20Engine&color=FFD700) ![VergeEngine coming soon](https://img.shields.io/badge/Verge%20Engine-Coming%20Soon-e00000?style=plastic)
 
-I created ***Rapid Engine***, a game engine with a custom node-based scripting language called ***CoreGraph***, designed to make creating games fast and easy
+I created ***Rapid Engine*** with **C** and **Raylib**, a game engine with a custom node-based scripting language called ***CoreGraph***, designed to make creating games fast and easy
+
+Currently developing ***Verge Engine*** with **Vulkan**, **C++** and **GLFW**. Coming to Github soon
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=EmilDimov93&theme=radical" width="500" />
 
