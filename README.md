@@ -14,7 +14,7 @@ A 2D **game engine** with a custom node-based scripting language called ***CoreG
 
 ---
 
-## <img width="18" height="26" alt="Ticklib icon" src="https://github.com/user-attachments/assets/5c54d71b-5a1c-455a-80dd-6a61873ed1cb" /> Ticklib
+## <img width="20" height="26" alt="Ticklib icon" src="https://github.com/user-attachments/assets/5c54d71b-5a1c-455a-80dd-6a61873ed1cb" /> Ticklib
 
 ![Version](https://img.shields.io/github/v/release/EmilDimov93/Ticklib?style=badge&color=00AA00)
 ![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white)
@@ -34,4 +34,4 @@ A **game engine** for **realistic racing simulations**. Very early in developmen
 
 ---
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=EmilDimov93&theme=monokai" width="500" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=EmilDimov93&theme=maroongold" width="500" />
