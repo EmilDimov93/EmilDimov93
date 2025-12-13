@@ -1,17 +1,38 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=141321&height=160&section=header&text=Emil%20Dimov&fontSize=50&fontColor=f8d847&fontAlign=center)
+<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/5fca0cd0-cef5-45b2-acdf-6d0935d301de" />
+
 <p align = left>
 Hi, I'm a software developer interested in low-level systems and game engine development
 
-![RapidEngine stars](https://img.shields.io/github/stars/EmilDimov93/Rapid-Engine?style=plastic&label=Rapid%20Engine%20⭐&color=ca61ff) 
+# Projects
 
-I created <span style="color:#ca61ff">***Rapid Engine***</span> with **C** and **Raylib**, a game engine with a custom node-based scripting language called ***CoreGraph***, designed to make creating games fast and easy
+## <img width="30" height="26" alt="icon" src="https://github.com/user-attachments/assets/97a1f2b8-7041-48e8-b325-88b2db65ab5b" /> Rapid Engine
 
-![Ticklib version](https://img.shields.io/github/v/release/EmilDimov93/Ticklib?style=plastic&label=Ticklib&color=c99e00) 
+![RapidEngine stars](https://img.shields.io/github/stars/EmilDimov93/Rapid-Engine?style=badge&label=⭐&color=FFD700) 
+![C](https://img.shields.io/badge/C-7B8D9E?style=badge&logo=c&logoColor=black)
+![raylib](https://img.shields.io/badge/raylib-FFFFFF?style=badge&logo=raylib&logoColor=black)
 
-<span style="color:#c99e00">***Ticklib***</span> is a 3D library for Windows that allows you to display and manipulate triangulated .obj files. Built with ***C++*** and ***windows.h***
+A 2D **game engine** with a custom node-based scripting language called ***CoreGraph***, designed to make creating games fast and easy
 
-![VergeEngine coming soon](https://img.shields.io/badge/Verge%20Engine-Coming%20Soon-e00000?style=plastic)
+---
 
-Currently developing <span style="color:#e00000">***Verge Engine***</span> with **Vulkan**, **C++** and **GLFW**. Coming to Github soon
+## <img width="18" height="26" alt="transparent_no_whitespace" src="https://github.com/user-attachments/assets/5c54d71b-5a1c-455a-80dd-6a61873ed1cb" /> Ticklib
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=EmilDimov93&theme=radical" width="500" />
+![Version](https://img.shields.io/github/v/release/EmilDimov93/Ticklib?style=badge&color=00AA00)
+![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white)
+![WinAPI](https://badgen.net/badge/%0A/WinAPI/00A4CC?style=badge&icon=https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg)
+
+A 3D rendering **library** for Windows that allows you to display and manipulate .obj files
+
+---
+
+## <img width="33" height="26" alt="logo_transparent_no_whitespace" src="https://github.com/user-attachments/assets/a3e6a554-a693-4246-bcbd-bfb336523320" /> Verge Engine
+
+![WIP](https://img.shields.io/badge/Status-Development-CC7200?style=badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=badge&logo=vulkan&logoColor=white)
+
+A **game engine** for **realistic racing simulations**. Very early in development
+
+---
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=EmilDimov93&theme=monokai" width="500" />
