@@ -1,11 +1,10 @@
 <img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/5fca0cd0-cef5-45b2-acdf-6d0935d301de" />
 
-<p align = left>
 Hi, I'm a software developer interested in low-level systems and game engine development
 
 # Projects
 
-## <img width="30" height="26" alt="icon" src="https://github.com/user-attachments/assets/97a1f2b8-7041-48e8-b325-88b2db65ab5b" /> Rapid Engine
+## <img width="30" height="26" alt="Rapid Engine icon" src="https://github.com/user-attachments/assets/97a1f2b8-7041-48e8-b325-88b2db65ab5b" /> Rapid Engine
 
 ![RapidEngine stars](https://img.shields.io/github/stars/EmilDimov93/Rapid-Engine?style=badge&label=⭐&color=FFD700) 
 ![C](https://img.shields.io/badge/C-7B8D9E?style=badge&logo=c&logoColor=black)
@@ -15,7 +14,7 @@ A 2D **game engine** with a custom node-based scripting language called ***CoreG
 
 ---
 
-## <img width="18" height="26" alt="transparent_no_whitespace" src="https://github.com/user-attachments/assets/5c54d71b-5a1c-455a-80dd-6a61873ed1cb" /> Ticklib
+## <img width="18" height="26" alt="Ticklib icon" src="https://github.com/user-attachments/assets/5c54d71b-5a1c-455a-80dd-6a61873ed1cb" /> Ticklib
 
 ![Version](https://img.shields.io/github/v/release/EmilDimov93/Ticklib?style=badge&color=00AA00)
 ![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white)
@@ -25,7 +24,7 @@ A 3D rendering **library** for Windows that allows you to display and manipulate
 
 ---
 
-## <img width="33" height="26" alt="logo_transparent_no_whitespace" src="https://github.com/user-attachments/assets/a3e6a554-a693-4246-bcbd-bfb336523320" /> Verge Engine
+## <img width="33" height="26" alt="Verge Engine icon" src="https://github.com/user-attachments/assets/a3e6a554-a693-4246-bcbd-bfb336523320" /> Verge Engine
 
 ![WIP](https://img.shields.io/badge/Status-Development-CC7200?style=badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white)
