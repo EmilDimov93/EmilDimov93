@@ -1,4 +1,4 @@
-<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/5fca0cd0-cef5-45b2-acdf-6d0935d301de" />
+<img width="2550" height="690" alt="Header banner" src="https://github.com/user-attachments/assets/59654feb-c0d4-4bdb-88af-b3714d69c319" />
 
 Hi, I'm a software developer interested in low-level systems and game engine development
 
@@ -34,4 +34,4 @@ A **game engine** for **realistic racing simulations**. Very early in developmen
 
 ---
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=EmilDimov93&theme=maroongold" width="500" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=EmilDimov93&theme=green_nur" width="500" />
