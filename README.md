@@ -1,4 +1,4 @@
-<img width="2550" height="690" alt="Header banner" src="https://github.com/user-attachments/assets/59654feb-c0d4-4bdb-88af-b3714d69c319" />
+<img width="2400" height="600" alt="Header banner" src="https://github.com/user-attachments/assets/9eb748aa-da96-45c0-b680-dca1dba8fb5b" />
 
 Hi, I'm a software developer interested in low-level systems and game engine development
 
