@@ -2,6 +2,8 @@
 
 Hi, I'm a software developer interested in low-level systems and game engine development
 
+<img src="https://gitranks.com/api/badge/v2/EmilDimov93?ranking=s&context=country&type=position&meta=none&label=Stars+Rank+%E2%80%A2+Bulgaria&cornerStyle=rounded&labelBgColor=%23363636&valueBgColor=%2374ff58" />
+
 # Projects
 
 ## <img width="30" height="26" alt="Rapid Engine icon" src="https://github.com/user-attachments/assets/97a1f2b8-7041-48e8-b325-88b2db65ab5b" /> Rapid Engine
