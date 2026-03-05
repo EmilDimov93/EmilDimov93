@@ -3,7 +3,7 @@
 Hi, I'm a software developer interested in low-level systems and game engine development
 
 [<img src="https://gitranks.com/api/badge/v2/EmilDimov93?ranking=s&context=country&type=position&meta=none&label=Stars+Rank+%E2%80%A2+Bulgaria&cornerStyle=rounded&labelBgColor=%23363636&valueBgColor=%23006bff" />](https://gitranks.com/profile/EmilDimov93)
-[<img src="https://aktive.kerolloz.dev/bulgaria/EmilDimov93?label=Commits%20Rank%20%E2%80%A2%20Bulgaria&labelColor=%23363636&color=%2374ff58&rnkPrefix=%23" />](https://committers.top/bulgaria)
+[![committers.top badge](https://user-badge.committers.top/bulgaria/EmilDimov93.svg)](https://committers.top/bulgaria.html)
 
 # Projects
 
