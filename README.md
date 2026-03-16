@@ -17,6 +17,16 @@ A 2D **game engine** with a custom node-based scripting language called ***CoreG
 
 ---
 
+## <img width="33" height="26" alt="Verge Engine icon" src="https://github.com/user-attachments/assets/a3e6a554-a693-4246-bcbd-bfb336523320" /> Verge Engine
+
+![Status](https://img.shields.io/badge/Status-Alpha-582eff?style=badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=badge&logo=vulkan&logoColor=white)
+
+A 3D **engine** for realistic vehicle simulations
+
+---
+
 ## <img width="20" height="26" alt="Ticklib icon" src="https://github.com/user-attachments/assets/5c54d71b-5a1c-455a-80dd-6a61873ed1cb" /> Ticklib
 
 ![Version](https://img.shields.io/github/v/release/EmilDimov93/Ticklib?style=badge&color=00AA00)
@@ -24,16 +34,6 @@ A 2D **game engine** with a custom node-based scripting language called ***CoreG
 ![WinAPI](https://badgen.net/badge/%0A/WinAPI/00A4CC?style=badge&icon=https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg)
 
 A 3D rendering **library** for Windows that allows you to display and manipulate .obj files
-
----
-
-## <img width="33" height="26" alt="Verge Engine icon" src="https://github.com/user-attachments/assets/a3e6a554-a693-4246-bcbd-bfb336523320" /> Verge Engine
-
-![WIP](https://img.shields.io/badge/Status-Development-CC7200?style=badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=badge&logo=vulkan&logoColor=white)
-
-A **game engine** for **realistic racing simulations**. Very early in development
 
 ---
 
