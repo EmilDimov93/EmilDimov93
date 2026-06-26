@@ -1,39 +1,40 @@
-<img width="2400" height="600" alt="Header banner" src="https://github.com/user-attachments/assets/9eb748aa-da96-45c0-b680-dca1dba8fb5b" />
+<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/f015a485-5091-42a3-8898-ebe5ae8b055b" />
 
-Hi, I'm a software developer interested in low-level systems and game engine development
+Hi, I'm an engine developer interested in low-level systems and real-time rendering
 
-[<img src="https://gitranks.com/api/badge/v2/EmilDimov93?ranking=s&context=country&type=position&meta=none&label=Stars+Rank+%E2%80%A2+Bulgaria&cornerStyle=rounded&labelBgColor=%23363636&valueBgColor=%23006bff" />](https://gitranks.com/profile/EmilDimov93)
+[<img src="https://gitranks.com/api/badge/v2/EmilDimov93?ranking=s&context=country&type=position&meta=none&label=Stars+Rank+%E2%80%A2+Bulgaria&cornerStyle=rounded&labelBgColor=%23363636&valueBgColor=%23e8d202" />](https://gitranks.com/profile/EmilDimov93)
 [<img src="https://aktive.kerolloz.dev/bulgaria/EmilDimov93?label=Commits%20Rank%20%E2%80%A2%20Bulgaria&labelColor=%23363636&color=%2374ff58&rnkPrefix=%23" />](https://committers.top/bulgaria)
 
 # Projects
 
-## <img width="30" height="26" alt="Rapid Engine icon" src="https://github.com/user-attachments/assets/97a1f2b8-7041-48e8-b325-88b2db65ab5b" /> Rapid Engine
+## [<img width="33" height="26" alt="Verge Engine icon" src="https://github.com/user-attachments/assets/a3e6a554-a693-4246-bcbd-bfb336523320" /> Verge Engine](https://github.com/EmilDimov93/Verge-Engine)
 
-![RapidEngine stars](https://img.shields.io/github/stars/EmilDimov93/Rapid-Engine?style=badge&label=⭐&color=FFD700) 
-![C](https://img.shields.io/badge/C-7B8D9E?style=badge&logo=c&logoColor=black)
-![raylib](https://img.shields.io/badge/raylib-FFFFFF?style=badge&logo=raylib&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
 
-A 2D **game engine** with a custom node-based scripting language called ***CoreGraph***, designed to make creating games fast and easy
+3D **engine** for realistic vehicle simulations
 
----
+- Vulkan rendering: lighting, dynamic shadows, multi-threaded model loading, post-effects, UI
 
-## <img width="33" height="26" alt="Verge Engine icon" src="https://github.com/user-attachments/assets/a3e6a554-a693-4246-bcbd-bfb336523320" /> Verge Engine
+- Vehicle physics: engine, drivetrain and gearbox
 
-![Status](https://img.shields.io/badge/Status-Alpha-582eff?style=badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=badge&logo=vulkan&logoColor=white)
-
-A 3D **engine** for realistic vehicle simulations
+- Spatial, layered engine audio
 
 ---
 
-## <img width="20" height="26" alt="Ticklib icon" src="https://github.com/user-attachments/assets/5c54d71b-5a1c-455a-80dd-6a61873ed1cb" /> Ticklib
+## [<img width="30" height="26" alt="Rapid Engine icon" src="https://github.com/user-attachments/assets/97a1f2b8-7041-48e8-b325-88b2db65ab5b" /> Rapid Engine](https://github.com/EmilDimov93/Rapid-Engine)
 
-![Version](https://img.shields.io/github/v/release/EmilDimov93/Ticklib?style=badge&color=00AA00)
-![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white)
-![WinAPI](https://badgen.net/badge/%0A/WinAPI/00A4CC?style=badge&icon=https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg)
+![C](https://img.shields.io/badge/C-7B8D9E?style=flat&logo=c&logoColor=black)
+![raylib](https://img.shields.io/badge/raylib-FFFFFF?style=flat&logo=raylib&logoColor=black)
+![RapidEngine stars](https://img.shields.io/github/stars/EmilDimov93/Rapid-Engine?style=flat&label=⭐&color=FFD700)
 
-A 3D rendering **library** for Windows that allows you to display and manipulate .obj files
+2D **game engine** with a custom node-based scripting language called ***CoreGraph***
+
+- Interpreter for CoreGraph
+
+- Custom UI
+
+- Hitbox editor, text editor and project manager
 
 ---
 
