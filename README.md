@@ -7,6 +7,21 @@ Hi, I'm an engine developer interested in real-time rendering and low-level syst
 
 # Projects
 
+## [<img width="32" height="32" alt="Dense Engine logo" src="https://github.com/user-attachments/assets/47e48018-2ec2-4d32-9b66-5cfdca61e903" /> Dense Engine](https://github.com/EmilDimov93/Dense-Engine)
+
+![DirectX 12](https://img.shields.io/badge/DirectX%2012-095009?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAVCAMAAAADxFwsAAAAYFBMVEWg25wirBpixVxUvE0AAADT8dBos2chnxuDz36f2Z6f0ZvA6Lz2%2BvZXvFFq4mip2aUnqCBbulVzxG8kqBx1xm9DtDuEx3sR7hFFtj6WqmcAfwBCsjqqqqr/tP%2BCyXyDy35VRfRhAAAAIHRSTlP7%2Bvz7AP0LFP0ZVv4CsROdVGBjqKKgJALcBwJkAwNkqYtjUvYAAAEQSURBVHjajZPrkoMgDIVjOEoR6l3b7na37/%2BWiwQUOztjzx9O4ke4RSpEGl/Q0DHCGE2XMgWpIL7%2BNBUq5hDccWVJf1dilKI0Y8QNyRebyyuy4qABk1jFM%2BZYqNNKFlG0cJSa48hsYMJ3vgK9gAN59y4NaHEBDGqoQU1H1fDHEjsBv%2BIM%2BezrwA2obhk4bKBzhsoNK1sYODzI%2BsC2QC3fagKeWEm7yo%2BVcwFcM2UArZ9kV9Dn2zKp9gV9wkjkQYp5DzZosi3qhwOlPa4VKS3tni4/i%2BwxA20CK0x0OT31Eu7xkovM4R736%2Bk%2BfJlFxfe/j9GwMlje37qnxHGfmlDx%2BF/37P2oT/rxow7fK57%2BM39xjw6fJVY69gAAAABJRU5ErkJggg==)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+Real-time **ray tracing engine** for interactive scene editing and animation
+
+- DXR pipeline: reflections and refractions, shadows, metallic/roughness materials, point and directional lights
+
+- Adaptive quality: scales SSAA, resolution and ray depth to hold the framerate; renders only when the scene changes
+
+- Editor: click-to-select in the viewport, animation scripting, model instancing, custom scene format, multi-threaded model loading
+
+---
+
 ## [<img width="33" height="26" alt="Verge Engine logo" src="https://github.com/user-attachments/assets/a3e6a554-a693-4246-bcbd-bfb336523320" /> Verge Engine](https://github.com/EmilDimov93/Verge-Engine)
 
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
@@ -19,17 +34,6 @@ Hi, I'm an engine developer interested in real-time rendering and low-level syst
 - Vehicle physics: engine, drivetrain and gearbox
 
 - Spatial, layered engine audio
-
----
-
-## [<img width="32" height="32" alt="Dense Engine logo" src="https://github.com/user-attachments/assets/47e48018-2ec2-4d32-9b66-5cfdca61e903" /> Dense Engine](https://github.com/EmilDimov93/Dense-Engine)
-
-![DirectX 12](https://img.shields.io/badge/DirectX%2012-095009?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAVCAMAAAADxFwsAAAAYFBMVEWg25wirBpixVxUvE0AAADT8dBos2chnxuDz36f2Z6f0ZvA6Lz2%2BvZXvFFq4mip2aUnqCBbulVzxG8kqBx1xm9DtDuEx3sR7hFFtj6WqmcAfwBCsjqqqqr/tP%2BCyXyDy35VRfRhAAAAIHRSTlP7%2Bvz7AP0LFP0ZVv4CsROdVGBjqKKgJALcBwJkAwNkqYtjUvYAAAEQSURBVHjajZPrkoMgDIVjOEoR6l3b7na37/%2BWiwQUOztjzx9O4ke4RSpEGl/Q0DHCGE2XMgWpIL7%2BNBUq5hDccWVJf1dilKI0Y8QNyRebyyuy4qABk1jFM%2BZYqNNKFlG0cJSa48hsYMJ3vgK9gAN59y4NaHEBDGqoQU1H1fDHEjsBv%2BIM%2BezrwA2obhk4bKBzhsoNK1sYODzI%2BsC2QC3fagKeWEm7yo%2BVcwFcM2UArZ9kV9Dn2zKp9gV9wkjkQYp5DzZosi3qhwOlPa4VKS3tni4/i%2BwxA20CK0x0OT31Eu7xkovM4R736%2Bk%2BfJlFxfe/j9GwMlje37qnxHGfmlDx%2BF/37P2oT/rxow7fK57%2BM39xjw6fJVY69gAAAABJRU5ErkJggg==)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-Real-time **ray tracing engine** allowing smooth and interactive scene editing. Work in progress
-
-- Hardware ray tracing: shadows, reflections, metallic/roughness materials, SSAA
 
 ---
 
